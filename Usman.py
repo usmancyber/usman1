@@ -49,8 +49,8 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
+|__(~)    •||•THE - USMAN -OFFICAL------•◈•
+|__\~~) •||•MALIK - USMAN---------------•◈•
 |__(-----\  •◈•------BLACK-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
@@ -69,10 +69,10 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
-oks = []
-id = []
+berhasil = [ok]
+cekpoint = [ligin after weak]
+oks = [done]
+id = [ok]
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "usman"
+CorrectPassword = "malik"
 
 loop = 'true'
 while (loop == 'true'):
